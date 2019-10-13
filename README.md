@@ -1,0 +1,2 @@
+# Household
+The purpose of the application was to help tenants of a household keep track of the chores that need to be done. The application could be used to create multiple households. The creation of a household involved the addition of its tenants and the chores that must be done. The application would be used to log the amount of chores each tenant completed and create a leader board for each household. The application had to be able to store date for multiple households, tenants and chores and display them in a leader board when required.
